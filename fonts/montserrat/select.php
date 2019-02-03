@@ -1,6 +1,6 @@
 <?php
    
-   $db = new PDO('sqlite:https://gitlab.com/hanercamilo/teco/blob/master/WindowsStorage');
+   $db = new PDO('sqlite:ServerStorage');
    
    $query = $_POST['query'];
       
