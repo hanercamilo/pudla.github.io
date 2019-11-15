@@ -1,4 +1,4 @@
-root = 'https://virtual.udla.edu.co:444/Webapi/backend/web/index.php/',
+root = 'https://www.uniamazonia.edu.co:444/Webapi/backend/web/index.php/',
 route = {
     user:{
         login: `${root}user/login`,
